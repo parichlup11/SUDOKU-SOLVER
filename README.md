@@ -1,6 +1,6 @@
-================================================================================
-                           SIMPLE SUDOKU SOLVER
-================================================================================
+====================SIMPLE SUDOKU SOLVER=====================
+                           
+
 
 A terminal-based Sudoku solver and generator written in C. I created this project
 to practice logic implementation and bitwise operations.
