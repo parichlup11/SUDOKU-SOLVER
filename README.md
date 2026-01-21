@@ -16,4 +16,4 @@ HOW TO USE IT:
    $ make
 
 2. Solve a puzzle from a text file:
-   $ ./sudoku --solve --print < exmaple.txt
+   $ ./sudoku --solve --print < input_example.txt
